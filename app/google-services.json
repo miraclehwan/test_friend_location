@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "760008460359",
+    "project_id": "gps-app-1284"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760008460359:android:f3b778bfa7721b0f",
+        "android_client_info": {
+          "package_name": "com.example.daehwankim.gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8r04jWVVg5__h5AAScRYVMcqF11UKRNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
